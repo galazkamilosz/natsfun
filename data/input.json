@@ -1,0 +1,52 @@
+[
+{
+    "group":"Engine",
+    "name":"rpm",
+    "value": 1500
+},
+{
+    "group":"Engine",
+    "name":"temp",
+    "value": 80
+},
+{
+    "group":"Engine",
+    "name":"pressure",
+    "value": 9.6
+},
+{
+    "group":"Oil",
+    "name":"temp",
+    "value": 200
+},
+{
+    "group":"Oil",
+    "name":"pressure",
+    "value": 10.11
+},
+{
+    "group":"Oil",
+    "name":"age",
+    "value": 67
+},
+{
+    "group":"Turbo",
+    "name":"pressure",
+    "value": 1.5
+},
+{
+    "group":"Fuel",
+    "name":"level",
+    "value": 70
+},
+{
+    "group":"Fuel",
+    "name":"consumption",
+    "value": 7.4
+},
+{
+    "group":"Fuel",
+    "name":"avg",
+    "value": "none"
+}
+]
